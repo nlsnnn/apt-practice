@@ -23,6 +23,19 @@
   
 }
 
+.text-primary{
+  color: var(--primary);
+}
+
 .text-dark-blue{
   color: var(--dark-blue);
+}
+
+.dark-blue-bg{
+  background-color: var(--dark-blue);
+}
+
+
+.gradient-bg{
+  background: linear-gradient(to right,#004788, #D71489);
 }
